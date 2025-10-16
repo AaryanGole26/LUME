@@ -1,6 +1,7 @@
-# LUME
+# LUME — Personalised AI Meme Generator
+[![Render Deploy](https://img.shields.io/badge/Deployed%20on-Render-blue)](https://lume-ai-l9ji.onrender.com)  
 
-Welcome to **LUME**, an AI-powered meme generator that transforms your images into hilarious memes with dynamic captions! Using the BLIP model for image description and the Groq API for witty captions, this Streamlit app lets you upload images, add trending topics, and create shareable memes. Deployed on Render at [https://lume-ai-l9ji.onrender.com](https://lume-ai-l9ji.onrender.com), it can also be installed locally for offline use.
+Welcome to **LUME**, an AI-powered meme generator that transforms your images into hilarious memes with dynamic captions! Using the BLIP model for image description and the Groq API for witty captions, this Streamlit app lets you upload images, add trending topics, and create shareable memes. 
 
 ---
 
@@ -25,7 +26,7 @@ Welcome to **LUME**, an AI-powered meme generator that transforms your images in
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/lumeai-meme-generator.git
+   git clone https://github.com/AaryanGole26/lumeai-meme-generator.git
    cd lumeai-meme-generator
    ```
 2. **Install Dependencies:**
@@ -75,9 +76,10 @@ We welcome contributions! To get started:
 
 ## Acknowledgements
 
-**BLIP Model:** Powered by Salesforce for image captioning.
-**Groq API:** Provides fast, witty caption generation.
-**Render:** Hosts the app with free tier support.
+1. **BLIP Model:** Powered by Salesforce for image captioning.
+2. **Groq API:** Provides fast, witty caption generation.
+3. **Render:** Hosts the app with free tier support.
+
 
 
 
