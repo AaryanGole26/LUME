@@ -56,7 +56,7 @@ Welcome to **LUME**, an AI-powered meme generator that transforms your images in
 > Input a trend (e.g., "Twitter Drama") for a themed caption.
 
 **Generate Lume:**
-> lick "Create Lume Meme" to process the image and display the result.
+> Click "Create Lume Meme" to process the image and display the result.
 
 **Download:**
 > Save the meme using the "Save your Lume" button.
@@ -76,9 +76,10 @@ We welcome contributions! To get started:
 
 ## Acknowledgements
 
-1. **BLIP Model:** Powered by Salesforce for image captioning.
-2. **Groq API:** Provides fast, witty caption generation.
-3. **Render:** Hosts the app with free tier support.
+- **BLIP Model:** Powered by Salesforce for image captioning.
+- **Groq API:** Provides fast, witty caption generation.
+- **Render:** Hosts the app with free tier support.
+
 
 
 
