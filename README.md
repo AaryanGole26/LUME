@@ -1,4 +1,4 @@
-# LUMI
+# LUME
 
 Welcome to **LUME**, an AI-powered meme generator that transforms your images into hilarious memes with dynamic captions! Using the BLIP model for image description and the Groq API for witty captions, this Streamlit app lets you upload images, add trending topics, and create shareable memes. Deployed on Render at [https://lume-ai-l9ji.onrender.com](https://lume-ai-l9ji.onrender.com), it can also be installed locally for offline use.
 
@@ -74,5 +74,6 @@ Create a branch: git checkout -b feature/your-feature.
 Commit changes: git commit -m "Add your feature".
 Push to GitHub: git push origin feature/your-feature.
 Open a Pull Request.
+
 
 
