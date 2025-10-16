@@ -49,31 +49,36 @@ Welcome to **LUME**, an AI-powered meme generator that transforms your images in
 ## Usage
 
 **Select Source:** 
-
-Choose "Upload Image" to upload a file or "Image URL" to enter a link.
+> Choose "Upload Image" to upload a file or "Image URL" to enter a link.
 
 **Add Trend (Optional):**
-
-Input a trend (e.g., "Twitter Drama") for a themed caption.
+> Input a trend (e.g., "Twitter Drama") for a themed caption.
 
 **Generate Lume:**
-
-Click "Create Lume Meme" to process the image and display the result.
+> lick "Create Lume Meme" to process the image and display the result.
 
 **Download:**
-
-Save the meme using the "Save your Lume" button.
+> Save the meme using the "Save your Lume" button.
 
 ---
 
 ## Contributing
 We welcome contributions! To get started:
 
-Fork the repository.
-Create a branch: git checkout -b feature/your-feature.
-Commit changes: git commit -m "Add your feature".
-Push to GitHub: git push origin feature/your-feature.
-Open a Pull Request.
+1. Fork the repository.
+2. Create a branch: git checkout -b feature/your-feature.
+3. Commit changes: git commit -m "Add your feature".
+4. Push to GitHub: git push origin feature/your-feature.
+5. Open a Pull Request.
+
+---
+
+## Acknowledgements
+
+**BLIP Model:** Powered by Salesforce for image captioning.
+**Groq API:** Provides fast, witty caption generation.
+**Render:** Hosts the app with free tier support.
+
 
 
 
